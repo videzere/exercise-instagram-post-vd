@@ -4,8 +4,9 @@
  } */
 body {
     margin: 0;
-    padding-top: 5%;
+    padding-top: 2%;
     background: black;
+    font-family: 'Nunito Sans', sans-serif;
 }
 div {
     margin: 0;
@@ -24,7 +25,7 @@ p {
 .identity {
     margin: 0;
     background: white;
-    width: 430px;
+    width: 470px;
     padding: 15px;
     display: flex;
     flex-direction: row;
@@ -34,7 +35,7 @@ p {
 .html5 {
     margin: 0;
     display: flex;
-    width: 100px;
+    width: 110px;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -49,11 +50,11 @@ p {
 }
 img {
     margin: 0;
-    width: 460px;
+    width: 500px;
 }
 .comments {
     margin: 0;
-    width: 430px;
+    width: 470px;
     padding: 10px 15px;
     background: white;
     display: flex;
