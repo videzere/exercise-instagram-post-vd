@@ -1,0 +1,82 @@
+ /* * {
+	border: 1px dashed red;
+	min-height: 10px;
+ } */
+body {
+    margin: 0;
+    padding-top: 5%;
+    background: black;
+}
+div {
+    margin: 0;
+}
+p {
+    margin: 0;
+    padding: 10px 0;
+}
+.container {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.identity {
+    margin: 0;
+    background: white;
+    width: 430px;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.html5 {
+    margin: 0;
+    display: flex;
+    width: 100px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo {
+    margin: 0;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+img {
+    margin: 0;
+    width: 460px;
+}
+.comments {
+    margin: 0;
+    width: 430px;
+    padding: 10px 15px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icons {
+    margin: 0;
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.likes {
+    margin: 0;
+    width: 100%;
+    float: left;
+}
+.description { 
+    margin: 0;
+    width: 100%;
+    align-self: flex-start;
+}
